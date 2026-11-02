@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Clenzplus</title>
+  <rect width="64" height="64" rx="14" fill="#086BB6"/>
+  <path d="M37 20c-11-10-25-2-25 12s14 22 25 12" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M41 32h14m-7-7v14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
